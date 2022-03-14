@@ -1,0 +1,6 @@
+examples/dist/
+lib/
+node_modules/
+.npmignore
+yarn.lock
+package-lock.json
